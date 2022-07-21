@@ -3,7 +3,7 @@
 
 I'm a full-stack web developer, working to make the world a techier place
 
-![](https://user-images.githubusercontent.com/12915136/87480122-ab9e5e00-c5fa-11ea-82b1-b4d3340b5c27.png)
+![](https://www.sayonetech.com/media/zinnia/Which_Country_Has_The_Best_Computer_Programmers_And_Developers.png)
 
 
 - 🔭 I’m currently working on making my future.

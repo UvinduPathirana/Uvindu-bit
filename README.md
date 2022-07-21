@@ -21,7 +21,7 @@ I'm a full-stack web developer, working to make the world a techier place
 ---
 
 ## Github Stats  
-![Dinuda's GitHub stats](https://github-readme-stats.vercel.app/api?username=uvinduP&show_icons=true&count_private=true&theme=radical)
+![Uvindu-bit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uvindu-bit&theme=dark&show_icons=true)
 
 
 
